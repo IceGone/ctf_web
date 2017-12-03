@@ -68,4 +68,4 @@ id | name | say something
 66| ljd321|666
 67|Lzy-wi|签到
 68| Alex | I really dont know how to use this thing
-68| IceGone | Later Better Than Ever
+69| IceGone | Later Better Than Ever
